@@ -1,5 +1,5 @@
 # Introduction
-Welcome to my Flutter Random Word Application! This project marks the beginning of my journey with Flutter, a popular UI toolkit for building natively compiled applications. The essence of this application is its simplicity and focus on user interaction with words.
+Welcome to my Flutter Random Word Application! This project marks the beginning of my journey with Flutter. The essence of this application is its simplicity and focus on user interaction with words.
 
 ## Features
 - **Random Word Generator:** Upon launching the app, users are greeted with a randomly generated word. This feature is the core of the application, providing a unique word each time.
